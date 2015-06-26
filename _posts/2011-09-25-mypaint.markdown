@@ -1,0 +1,48 @@
+---
+layout: post
+title: MyPaint
+date: '2011-09-25T20:13:00.001-03:00'
+author: Filly
+tags:
+- software libre
+- programas
+- 2D
+modified_time: '2011-09-25T20:20:43.987-03:00'
+thumbnail: http://2.bp.blogspot.com/-pH0GnTgm5rc/Tn-yUe-uhpI/AAAAAAAAAmM/C6Ru1uh1roQ/s72-c/mypaintlogo.png
+blogger_id: tag:blogger.com,1999:blog-6145090415061302130.post-178415156084515094
+blogger_orig_url: http://missfillys.blogspot.com/2011/09/mypaint.html
+---
+[![](http://2.bp.blogspot.com/-pH0GnTgm5rc/Tn-yUe-uhpI/AAAAAAAAAmM/C6Ru1uh1roQ/s1600/mypaintlogo.png)][0]  
+MyPaint es una aplicación _open source_ dirigida a artistas digitales. Y cuando digo "artistas", no me refiero a
+profesionales o gente con mucho talento para el dibujo y la pintura, sino a cualquiera que disfrute hacer alguna de
+estas actividades. No es un editor de imágenes ni de gráficos vectoriales. Está optimizado para tabletas
+digitalizadoras, y sirve para dibujar y pintar, punto.  
+
+Una de las _features_ más destacables del programa es su interfaz minimalista, diseñada para que el usuario pueda
+trabajar lo más cómodamente posible. Podemos ocultar todos los paneles de herramientas, e incluso trabajar en modo
+de pantalla completa, así no habrá distracciones o botones que nos molesten mientras dibujamos. El lienzo de MyPaint es
+ilimitado, y en consecuencia no tenemos que estarnos preocupando por cambiar el tamaño de nuestro espacio de trabajo si
+nos quedamos cortos.
+
+[![](http://2.bp.blogspot.com/-n-Go2EAMp0k/Tn-ye_5yCTI/AAAAAAAAAmQ/NzSVXIi4pTg/s400/mypaint1.jpg)][1]
+
+Casi todas las funciones básicas cuentan con un atajo del teclado, esto nos permite movernos muy rápidamente entre éste
+y la tableta, sin la necesidad de tener el _mouse_ como intermediario. Podemos modificar o crear atajos según lo
+necesitemos, así como personalizar las barras de herramientas con las funciones que más usamos.
+
+Muy importante es la posibilidad de crear, eliminar, mover, combinar y cambiar la opacidad de las capas. Esto nos
+permite realizar el bosquejo, el repaso con tinta y el color por separado.  
+
+Foxkeh:
+
+[![](http://4.bp.blogspot.com/-wEQYd3Phz-4/Tn-yrPCTYRI/AAAAAAAAAmU/YCLWr7Jbp2Q/s320/mypaintcapas.jpg)][2]
+
+MyPaint se convirtió en uno de mis programas preferidos desde la primera vez que lo usé. Corre en **Linux**,
+MacOS y Windows. :P La documentación sobre el uso básico se encuentra en la [página oficial][3] y es muy completa.
+Para los interesados, recomiendo ver los excelentes [tutoriales de Ramón Miranda][4].
+
+[0]: http://2.bp.blogspot.com/-pH0GnTgm5rc/Tn-yUe-uhpI/AAAAAAAAAmM/C6Ru1uh1roQ/s1600/mypaintlogo.png
+[1]: http://2.bp.blogspot.com/-n-Go2EAMp0k/Tn-ye_5yCTI/AAAAAAAAAmQ/NzSVXIi4pTg/s1600/mypaint1.jpg
+[2]: http://4.bp.blogspot.com/-wEQYd3Phz-4/Tn-yrPCTYRI/AAAAAAAAAmU/YCLWr7Jbp2Q/s1600/mypaintcapas.jpg
+[3]: http://mypaint.intilinux.com/
+[4]: http://www.youtube.com/user/TheShockito#grid/user/52FA564C4108E139

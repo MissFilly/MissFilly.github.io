@@ -1,0 +1,72 @@
+---
+layout: post
+title: Die2Nite
+date: '2011-02-23T11:35:00.000-03:00'
+author: Filly
+tags:
+- review
+- videogames
+- browser
+modified_time: '2011-02-23T11:35:17.960-03:00'
+thumbnail: http://1.bp.blogspot.com/-hrkHWsRBr84/TWSTr9SVBjI/AAAAAAAAALw/Zup2RS_knAQ/s72-c/die2nite.png
+blogger_id: tag:blogger.com,1999:blog-6145090415061302130.post-6675996184716907200
+blogger_orig_url: http://missfillys.blogspot.com/2011/02/die2nite.html
+---
+
+[![](http://1.bp.blogspot.com/-hrkHWsRBr84/TWSTr9SVBjI/AAAAAAAAALw/Zup2RS_knAQ/s320/die2nite.png)][0]
+
+[Die2Nite][1] (_browser game_) es uno de esos juegos que está basado en una excelente idea que no pudo ser bien
+implementada. Tiene varios defectos notorios, pero bajo ciertas circunstancias puede llegar a ser muy entretenido. 
+
+Básicamente, al iniciar el juego se ingresa a un _town_ (pueblo) junto a otros 39 jugadores, y la única misión que se
+tiene es sobrevivir la mayor cantidad de días posibles.
+
+Se cuenta con un número limitado de _action points_ para realizar unas pocas acciones durante el día, que básicamente
+se pueden repartir entre salir a explorar las afueras del pueblo (para recolectar recursos) o quedarse para ayudar en
+construcciones.
+
+Si alguna vez conocí un juego que se pudiera hacer llamar cooperativo, es éste. Hacen tanta falta personas que salgan a
+explorar el exterior, como otras que inviertan puntos en construir (yo, por supuesto, era de las que se quedaban en el
+pueblo, no me gusta caminar aunque sea virtualmente). También uno puede estancarse en medio de una horda de zombies
+mientras explora el exterior, y va a necesitar que otro ciudadano venga a rescatarlo. Es indispensable ponerse de
+acuerdo en todo: cuánta agua ahorrar, qué proyectos construir y en qué orden, la hora de inicio y el recorrido de las
+expediciones, entre muchas otras cosas. En ese sentido, es un juego bastante innovador.
+
+[![](http://1.bp.blogspot.com/-56MEkS2ElsQ/TWSW-bhhCtI/AAAAAAAAAL4/OxniES4vsFw/s320/die2nite3.png)][2]
+
+Mis estadísticas en el juego: un título por mantenerme fuera de las drogas, otro por no querer salir a explorar
+(construir) y sí, mi avatar era una imagen de Garrus Vakarian.
+
+Peeero si juntamos muchos usuarios de Internet algo tiene que salir mal, ¿no? Como cualquiera puede imaginarse,
+Die2Nite es también el paraíso de los _trolls_. Basta con que alguien saque un objeto muy raro del banco y lo utilice
+para adornar su casa, o construya un proyecto que no estaba previsto (cosa que obviamente requiere recursos) para
+arruinar parcial o completamente las esperanzas de vida del pueblo. Aunque democráticamente se puede impedir que estos
+jugadores tengan acceso al banco o las construcciones, ellos pueden seguir dando vueltas y hurtando las casas de los
+demás ciudadanos.
+
+Con cada día que se sobrevive en el pueblo, se suman _soul points_ a la cuenta de usuario, que son, básicamente,
+puntos de experiencia. A partir de los 100 puntos adquiridos se puede ingresar a un tipo de pueblo para "veteranos",
+que obviamente tiene menos _newbies_, pero nunca falta el _troll_ que a último momento se roba objetos de defensa del
+banco para mejorar su vivienda y deja al resto en banda.
+
+Cómo creo que lucen los _trolls_ desterrados por el pueblo una vez que mueren en manos de los zombies:
+
+[![](http://3.bp.blogspot.com/-YXS3nm_XN-I/TWST0MXziMI/AAAAAAAAAL0/vFDmNNlgJ4c/s320/die2nite2.jpg)][3]
+
+¿Otros contras? El juego funciona en Flash, y su interfaz es muy poco intuitiva (casi desorganizada) para el jugador en
+un comienzo. ¿Ventajas? La primera vez que se encuentra un pueblo en donde la gente no saca cosas del banco y en serio
+se organiza para sobrevivir, puede ser muy emocionante. Tampoco es adictivo, porque una vez que se estuvo en uno o dos
+pueblos con buenos jugadores y se sobrevivió mucho tiempo, se hace monótono y finalmente uno abandona.
+
+En conclusión, el juego se desarrolla alrededor de una idea bastante original, y está bien pensando en muchos aspectos
+aunque también podría mejorar enormemente en otros. Puede llegar a ser muy divertido cuando se tienen discusiones
+comunitarias para la organización de proyectos y demás, aunque a muchos les puede resultar frustrante la idea de que
+tarde o temprano van a morir.  
+
+* Dirección del juego: [www.die2nite.com][1]
+
+[0]: http://1.bp.blogspot.com/-hrkHWsRBr84/TWSTr9SVBjI/AAAAAAAAALw/Zup2RS_knAQ/s1600/die2nite.png
+[1]: http://www.die2nite.com/
+[2]: http://1.bp.blogspot.com/-56MEkS2ElsQ/TWSW-bhhCtI/AAAAAAAAAL4/OxniES4vsFw/s1600/die2nite3.png
+[3]: http://3.bp.blogspot.com/-YXS3nm_XN-I/TWST0MXziMI/AAAAAAAAAL0/vFDmNNlgJ4c/s1600/die2nite2.jpg
+[4]: http://www.mundokraken.es/images/figura-lab-coat-zombie.jpg

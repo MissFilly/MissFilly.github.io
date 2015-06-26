@@ -1,0 +1,6 @@
+_drafts/
+_posts_html/
+_site/
+node_modules/
+.idea/
+.sass-cache/
